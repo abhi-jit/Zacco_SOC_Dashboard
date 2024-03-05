@@ -1,0 +1,48 @@
+ody {
+    font-family: Arial, sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    background-color: #565252;
+    color: whitesmoke;
+}
+
+nav {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 0;
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+.leftSection{
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    margin: 0 5px;
+}
+
+section {
+    margin: 20px;
+}
